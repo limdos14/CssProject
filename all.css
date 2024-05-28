@@ -129,4 +129,5 @@ important{
 .box1{
     padding-left: 30px;/*把div盒子內推，向內左推30px才有文章*/
     margin: 30px;/*用外面把div盒子全部各推30px，簡易來說是把div向外推30px空白*/
+    padding-left: 20px;
 }
